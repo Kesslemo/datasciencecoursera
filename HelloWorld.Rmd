@@ -1,0 +1,14 @@
+---
+title: "Untitled"
+author: "MK"
+date: "12/21/2020"
+output: word_document
+---
+
+## This is an R markdown file
+
+
+```{r}
+print("This is an R markown file")
+```
+
